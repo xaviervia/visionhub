@@ -13,6 +13,11 @@ La idea es crear una plataforma y una comunidad alrededor de la generación de l
 
 La organización podría funcionar como sin fines de lucro, tal como wikipedia, o con un modelo mixto, ofreciendo servicios de homologación de normas y cerficación para aquellos que lo requieran. Adicionalmente, se podría convertir a la plataforma en un marketplace de servicios relacionados con los estándares, siempre que se respete la norma base de que la publicación es abierta, el acceso a la información también, y las licencias sean como minimo creative commons-compatibles.
 
+Tecnología
+----------
+
+La plataforma en sí sería una variación de [Wiki](http://www.mediawiki.org/wiki/MediaWiki) pero con mejores características de atribución e historial, probablemente basado en Git.
+
 Colaboradores
 -------------
 
